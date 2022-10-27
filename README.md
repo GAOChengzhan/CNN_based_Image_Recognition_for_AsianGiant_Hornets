@@ -44,6 +44,8 @@ sightings have turned out to be other types of insects.
 ![image](https://user-images.githubusercontent.com/39005000/198411771-68f9123c-e632-4247-be91-f3e61599e24d.png)
 
 ## 8. Optimization on HyperParameters
+![image](https://user-images.githubusercontent.com/39005000/198412535-24d35096-505f-4ec7-8aeb-ae9bc20dfe84.png)
+
 ![image](https://user-images.githubusercontent.com/39005000/198411881-fd163fc2-c402-44e4-961e-2dfb82361b28.png)
 
 
